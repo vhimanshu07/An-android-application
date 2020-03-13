@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+<!--//navigation bar-->
+<!--        <item name="android:navigationBarColor">#FF5252</item>-->
+<!--&lt;!&ndash;//name of the app&ndash;&gt;-->
+<!--       <item name="textColorPrimary">#424242</item>-->
+
+    </style>
+    <!-- Base application theme. -->
+    <style name="header" >
+        <!-- Customize your theme here. -->
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">15dp</item>
+    </style>
+
+</resources>
